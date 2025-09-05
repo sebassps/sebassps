@@ -1,16 +1,22 @@
-## Hi there 👋
+# Bienvenido a Mi Perfil de GitHub
 
-<!--
-**sebassps/sebassps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de Mí
+Hola, soy Sebastián García, especialista en Mulesoft, Java, GCP en SPS. Me apasiona aprender nuevas tecnologias y poder emplearlas.
 
-Here are some ideas to get you started:
+## Mi Rol en SPS
+Ser desarrollador y llevar a cabo de la mejor manera las tareas para cumplir con los objetivos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades y Expertise
+Mulesoft 
+GCP
+Java
+
+## Cómo Colaboro
+Me gusta trabajar de manera colaborativa, compartiendo ideas y buenas prácticas para lograr soluciones eficientes y escalables. Disfruto del trabajo en equipo, donde la comunicación clara y la organización son fundamentales para cumplir con los objetivos.
+
+Estoy abierto a revisar código, aportar sugerencias de mejora y aprender de otros compañeros.
+
+La mejor forma de colaborar conmigo es mediante una comunicación constante, retroalimentación constructiva y manteniendo un enfoque en la calidad y la mejora continua.
+
+## Contacto
+Correo Electrónico: sgarciav@spsolutions.com.mx
